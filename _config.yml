@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Jotafer"
-  avatar : "/assets/images/swordfish.jpg"
+  avatar : "/assets/images/tech.jpg"
   bio    : "Web development blogger"
   links:
     - label: "Website"
