@@ -5,7 +5,7 @@ categories:
   - Tecnologías
 tags:
   - CSS
-  - Javascrpt
+  - Javascript
 ---
 
 La tencología CSS permite hacer un diseño más específico y personalizado para cada elemento de la estructura de una página, permitiendo experimentar con nuevos estilos.
