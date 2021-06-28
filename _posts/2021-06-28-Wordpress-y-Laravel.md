@@ -1,6 +1,6 @@
 ---
 title: "Wordpress y Laravel"
-date: 2021-06-17T15:34:30-04:00
+date: 2021-06-28T15:34:30-04:00
 categories:
   - Tecnologías
 tags:
