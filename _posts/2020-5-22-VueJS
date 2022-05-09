@@ -1,0 +1,23 @@
+---
+title: "VueJS"
+date: 2022-05-22T15:34:30-04:00
+categories:
+  - Tecnologías
+tags:
+  - VueJS
+---
+
+VueJS presenta una arquitectura de adopción incremental que se centra en la representación declarativa y la composición de componentes.
+Las funciones avanzadas requeridas para aplicaciones complejas como enrutamiento, administración de estado y herramientas de construcción
+se ofrecen a través de bibliotecas y paquetes que se mantienen oficialmente.
+
+Vue presenta un sistema de reactividad que utiliza objetos de JavaScript sin formato y una representación optimizada, cada componente
+realiza un seguimiento de sus dependencias reactivas durante su procesamiento, por lo que el sistema sabe exactamente cuando y que componentes debe volver a generar
+
+5 Motivos para usar Vue
+
+1. Se autodenomina como un framework progresivo: Funcionalidad en el momento que la necesites
+2. Fácil y simple de usar: Es un intento de simplificar Angular JS.
+3. Experiencia de desarrollo cómoda: Herramientas que ayudan al desarrollador a saber qué hace
+4. Comunidad muy activa
+5. Todo el código en componentes se encuentra en un único fichero 
